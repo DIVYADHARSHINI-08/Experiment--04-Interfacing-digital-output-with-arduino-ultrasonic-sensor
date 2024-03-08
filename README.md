@@ -133,6 +133,9 @@ Average error = sum/ number of readings
 
 ![Screenshot 2024-03-08 162012](https://github.com/DIVYADHARSHINI-08/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/145210448/7aac339f-9269-4345-97f8-6d389ca4ba62)
 
+# SCHEMATIC VIEW
+
+![Screenshot 2024-03-08 163409](https://github.com/DIVYADHARSHINI-08/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/145210448/73dc329f-82f1-4905-bab0-b30022793fa3)
 
 
 ### RESULTS
