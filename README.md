@@ -137,6 +137,6 @@ Average error = sum/ number of readings
 
 ### RESULTS
 
-Ultrasonic Sensor is interfaced with digital output and error is identified to be 0.426cm.
+Ultrasonic Sensor is interfaced with digital output and error is identified to be -0.426cm.
 
  
